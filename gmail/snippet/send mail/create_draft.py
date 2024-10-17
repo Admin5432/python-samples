@@ -42,8 +42,8 @@ def gmail_create_draft():
 
     message.set_content("This is automated draft mail")
 
-    message["To"] = "gduser1@workspacesamples.dev"
-    message["From"] = "gduser2@workspacesamples.dev"
+    message["To"] = "admin2@admintestacc.co.in"
+    message["From"] = "admin5@admintestacc.co.in"
     message["Subject"] = "Automated draft"
 
     # encoded message
